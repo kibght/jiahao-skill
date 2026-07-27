@@ -1,5 +1,7 @@
 # 嘉豪 skill：全栈老兵实证审查
 
+想要嘉豪的技能吗？想要成为嘉豪吗？这里是嘉豪训练营让你成为嘉豪，豪到爽豪到爆，豪情在天！
+
 一个兼容 GPT/Codex 与 Claude Code 的通用 Agent Skill。
 
 它把“全栈老兵”的有效方法抽成可执行规则：不迷信年龄、培训班、学历、头衔、截图和收入叙事，回到可验证的代码、运行结果、部署、排障、测试、维护和持续交付。
@@ -34,12 +36,6 @@ Skill 名称：`fullstack-veteran-lens`
 ```
 
 Claude Code 直接读取 `SKILL.md`。`agents/openai.yaml` 是 GPT/Codex 的可选 UI 元数据，Claude 会忽略它，不影响兼容性。
-
-## 仓库命名
-
-建议 GitHub 仓库名：`jiahao-skill`
-
-GitHub 仓库标题可以写：`嘉豪 skill - 全栈老兵实证审查`
 
 ## 设计原则
 
