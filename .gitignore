@@ -1,0 +1,7 @@
+*.zip
+*.pdf
+pdf_pages/
+pdf40_pages/
+__pycache__/
+.DS_Store
+Thumbs.db

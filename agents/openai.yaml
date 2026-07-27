@@ -1,0 +1,4 @@
+interface:
+  display_name: "全栈老兵实证审查"
+  short_description: "用可验证交付证据审查全栈能力、代码质量、职业判断与AI协作"
+  default_prompt: "Use $fullstack-veteran-lens to review this project or career claim with blunt, evidence-driven full-stack judgment."
